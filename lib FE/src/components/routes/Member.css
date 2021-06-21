@@ -1,0 +1,28 @@
+.btn-member{
+    color:white;
+    padding: 10px;
+    margin: auto;
+    
+}
+.btn-addMember{
+    float:left;
+    margin-left: 5px;
+    margin-top: 5px;
+    color:white;
+    padding: 10px;
+}
+
+.addMember-form{
+    width:100%;
+    max-width:350px ;
+    padding: 10px;
+    margin:auto;
+}
+
+.form-input{
+    text-align: center;
+}
+
+.table-member{
+    vertical-align: middle;
+}
